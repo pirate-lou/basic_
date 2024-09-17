@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "b509603cac28d9e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "53178bad6ffc7148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c3b627254289239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c#/flenov/SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74ff466b2fca887d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d910d3e54bc72788",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e535df287971314d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec50fbf2eeee1f85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63c387ba041896e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "61911a86664e26a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb90595602e353c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24aec5e3690da979",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "c#/flenov/SQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce51356162ea1276",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "c#/flenov/SQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29212622563e38ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ebb4fa72e8890036",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "c#/flenov/SQL.md"
+              }
+            }
+          },
+          {
+            "id": "727713fc82947c29",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e535df287971314d",
+  "lastOpenFiles": [
+    "basic/README.md",
+    "basic",
+    "c#/flenov/База.md",
+    "c#/flenov/SQL.md",
+    "Excalidraw/Рекурсия - наглядно.md",
+    "Excalidraw/sharp.md",
+    "Excalidraw/quote.md",
+    "Excalidraw/Note-taking system.md",
+    "Excalidraw/aaa.md",
+    "Education/Статьи/Knife.md",
+    "Education/Статьи/Журнал Код.md",
+    "Education/Books.md",
+    "Education/youtube.md",
+    "Programming/Основы программирования часть 2.md",
+    "Programming/Suggestion Site App.md",
+    "other/reference/книги/Теоретический минимум по CS.md",
+    "Daily/2024-07-20.md",
+    "Daily/2024-05-07.md",
+    "Daily/2024-05-03.md",
+    "Daily/2024-04-30.md",
+    "Daily/2024-04-29.md",
+    "Daily/2024-04-28.md",
+    "other/Cache/Screenshot 2024-09-16 at 6.47.59 PM.png",
+    "other/Cache/Screenshot 2024-09-14 at 4.59.25 PM.png",
+    "other/Cache/Screenshot 2024-09-14 at 4.30.40 PM.png",
+    "other/Cache/Screenshot 2024-09-14 at 4.15.25 PM.png",
+    "other/Cache/Screenshot 2024-09-14 at 4.10.49 PM.png",
+    "other/Cache/Screenshot 2024-09-12 at 2.48.32 PM.png",
+    "other/Cache/Screenshot 2024-09-12 at 2.42.43 PM.png",
+    "other/Cache/Screenshot 2024-09-12 at 2.40.18 PM.png",
+    "other/Cache/Screenshot 2024-09-12 at 2.33.20 PM.png",
+    "other/Cache/Screenshot 2024-09-12 at 2.31.17 PM.png",
+    "other/reference/статьи/DPI что это и зачем нужен.md",
+    "c#/basic/Back.md",
+    "c#/basic/example.md",
+    "c#/basic/lesson 3 UpCast + DownCast.md",
+    "c#/basic/lesson 4 abstract class.md",
+    "c#",
+    "c#/flenov",
+    "c#/basic",
+    "other/reference/proga",
+    "other",
+    "Untitled.canvas",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "traker",
+    "Programming/2 часть/Листы и словари/Untitled.canvas"
+  ]
+}

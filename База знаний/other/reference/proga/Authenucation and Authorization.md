@@ -1,0 +1,2 @@
+Authenucation - is the idea that u sign in, u say "hey this is what my user and password is and it says that yeah, u're right u signed in "
+Authorization - is now u signed in and what level of permition do u have (levels)

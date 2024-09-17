@@ -1,0 +1,7 @@
+{
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "Cache/"
+  ],
+  "alwaysUpdateLinks": true
+}
