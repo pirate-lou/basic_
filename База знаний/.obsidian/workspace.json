@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c#/flenov/SQL.md",
+                "file": "Programming/flenov/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "61911a86664e26a7",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c#/flenov/SQL.md",
+                "file": "Programming/flenov/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "c#/flenov/SQL.md",
+                "file": "Programming/flenov/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "c#/flenov/SQL.md"
+                "file": "Programming/flenov/SQL.md"
               }
             }
           },
@@ -157,30 +159,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e535df287971314d",
+  "active": "5c3b627254289239",
   "lastOpenFiles": [
-    "basic/README.md",
-    "basic",
-    "c#/flenov/База.md",
-    "c#/flenov/SQL.md",
-    "Excalidraw/Рекурсия - наглядно.md",
-    "Excalidraw/sharp.md",
-    "Excalidraw/quote.md",
-    "Excalidraw/Note-taking system.md",
-    "Excalidraw/aaa.md",
-    "Education/Статьи/Knife.md",
-    "Education/Статьи/Журнал Код.md",
-    "Education/Books.md",
-    "Education/youtube.md",
+    "Screenshot 2024-09-19 at 1.58.29 PM.png",
+    "other/Cache/Screenshot 2024-09-18 at 8.19.00 PM.png",
+    "Programming/flenov/dotnet.md",
+    "Programming/flenov/SQL.md",
+    "Programming/flenov/База.md",
     "Programming/Основы программирования часть 2.md",
     "Programming/Suggestion Site App.md",
+    "Programming/basic/UpCast + DownCast.md",
+    "Programming/basic/example.md",
+    "Programming/basic/static class + Nested class + Extension.md",
+    "Programming/basic/array + indexers + interface.md",
+    "Programming/basic/abstract class.md",
+    "Programming/basic/Back.md",
+    "basic/README.md",
+    "other/reference/proga/basic.md",
+    "other/reference/proga/LINQ.md",
+    "Excalidraw/aaa.md",
+    "Excalidraw/Note-taking system.md",
+    "Excalidraw/sharp.md",
+    "Excalidraw/Рекурсия - наглядно.md",
+    "Excalidraw/quote.md",
+    "Education/youtube.md",
+    "Education/Books.md",
+    "c#/basic/lesson 7.md",
+    "Untitled",
+    "basic",
+    "Education/Статьи/Knife.md",
+    "Education/Статьи/Журнал Код.md",
     "other/reference/книги/Теоретический минимум по CS.md",
-    "Daily/2024-07-20.md",
-    "Daily/2024-05-07.md",
-    "Daily/2024-05-03.md",
-    "Daily/2024-04-30.md",
-    "Daily/2024-04-29.md",
-    "Daily/2024-04-28.md",
     "other/Cache/Screenshot 2024-09-16 at 6.47.59 PM.png",
     "other/Cache/Screenshot 2024-09-14 at 4.59.25 PM.png",
     "other/Cache/Screenshot 2024-09-14 at 4.30.40 PM.png",
@@ -190,22 +199,15 @@
     "other/Cache/Screenshot 2024-09-12 at 2.42.43 PM.png",
     "other/Cache/Screenshot 2024-09-12 at 2.40.18 PM.png",
     "other/Cache/Screenshot 2024-09-12 at 2.33.20 PM.png",
-    "other/Cache/Screenshot 2024-09-12 at 2.31.17 PM.png",
-    "other/reference/статьи/DPI что это и зачем нужен.md",
-    "c#/basic/Back.md",
-    "c#/basic/example.md",
-    "c#/basic/lesson 3 UpCast + DownCast.md",
-    "c#/basic/lesson 4 abstract class.md",
-    "c#",
-    "c#/flenov",
-    "c#/basic",
+    "Programming/c#",
+    "Programming/flenov",
+    "Programming/basic",
     "other/reference/proga",
     "other",
     "Untitled.canvas",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "traker",
     "Programming/2 часть/Листы и словари/Untitled.canvas"
   ]
 }
