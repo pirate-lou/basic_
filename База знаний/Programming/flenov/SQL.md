@@ -175,7 +175,7 @@ create table player(
 	-> 3
 
 
-`mysql> describe player;` - прикол mysql, может не выполниться в другой 
+`describe player;` - прикол mysql, может не выполниться в другой 
 	![[Screenshot 2024-09-19 at 1.58.29 PM.png]]
 
 - Изменение колонки:
@@ -183,5 +183,40 @@ create table player(
 	2. удалить колонку - `alter table player drop position1`
 	3. изменение типа колонки - `alter table player modify position int not null;`
 	>при конвертации mysql не позволяет конвертнуть null в число
+
+- Внешние ключи - связи таблиц
+	реляционная связь - связующая 
+
+	 `alter table phone add foreign key (cityid) references city (cityid);`
 	
+	ссылаться можно на уникальные значения  
+	
+	`phone (cityid) -> city (cityid)`
+	
+	записи связаны **один ко многим** - смысл в том, что в одной таблице можно создать много  телефонов с cityid = 1 и они, несколько записей, будут все ссылаться на cityid 
+
+	>Внешний ключ защищает от вставки/удаления некорректных данных 
+
+
+
+- Каскадное удаление и обнуление 
+
+	==on delete null== - при удалении города, все cityid в телефонных номерах для этого города буду установлены в null:
+	`alter table phone add foreign key (cityid) references city (cityid) on delete null;` 
+
+	`on delete cascade` - все номера будут удалены, т.е. при удалении города 1, все записи принадлежащие этому городу будут удалены
+
+	`on delete set null` - при удалении города, значение будет установлено в null. 
+
+	задать  имя constraint с удалением:
+	`alter table phone add constraint fk_phone foreign key (cityid) references city (cityid) on delete cascade;`
+
+ >`cascade` лучше не использовать, одна ошибка и ты ошибся, лучше использовать внешние ключи, они создавались для защиты. Каскадное удаление не выигрывает по производительности. 
+
+>`set null` тоже не стоит использовать 
+
+>Внешние ключи - используем, а `on delete` - не используем
+
+
+---
 

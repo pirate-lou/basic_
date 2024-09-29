@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53178bad6ffc7148",
+        "id": "553dee745e225815",
         "type": "tabs",
         "children": [
           {
-            "id": "5c3b627254289239",
+            "id": "62b27e914bc77db4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/flenov/SQL.md",
+                "file": "Programming/flenov/dotnet.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/flenov/SQL.md",
+                "file": "Programming/flenov/dotnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/flenov/SQL.md",
+                "file": "Programming/flenov/dotnet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/flenov/SQL.md"
+                "file": "Programming/flenov/dotnet.md"
               }
             }
           },
@@ -159,12 +158,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c3b627254289239",
+  "active": "62b27e914bc77db4",
   "lastOpenFiles": [
+    "Screenshot 2024-09-29 at 3.17.52 PM.png",
+    "Screenshot 2024-09-29 at 2.44.20 PM.png",
+    "Programming/flenov/SQL.md",
+    "Programming/flenov/dotnet.md",
     "Screenshot 2024-09-19 at 1.58.29 PM.png",
     "other/Cache/Screenshot 2024-09-18 at 8.19.00 PM.png",
-    "Programming/flenov/dotnet.md",
-    "Programming/flenov/SQL.md",
     "Programming/flenov/База.md",
     "Programming/Основы программирования часть 2.md",
     "Programming/Suggestion Site App.md",
@@ -197,8 +198,6 @@
     "other/Cache/Screenshot 2024-09-14 at 4.10.49 PM.png",
     "other/Cache/Screenshot 2024-09-12 at 2.48.32 PM.png",
     "other/Cache/Screenshot 2024-09-12 at 2.42.43 PM.png",
-    "other/Cache/Screenshot 2024-09-12 at 2.40.18 PM.png",
-    "other/Cache/Screenshot 2024-09-12 at 2.33.20 PM.png",
     "Programming/c#",
     "Programming/flenov",
     "Programming/basic",
