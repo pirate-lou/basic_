@@ -14,7 +14,7 @@ add these things to this :
 1. focus on basic concepts and dont rush.
 2. find objective of learning
 3. then find intermediate concepts used generally ( maybe you miss some which are not used regular but if required you can just google it )
-4. revision revision , so what ever you learn just revise within 30-40 hours again then lite revision again after a week , this will create new nuro paths , later when you recall even if you forget if you get hint you recall all and then do practice to hard concepts , hope it helps and do have goood sleep and while y learn avoid social media and extra stuff and stupid relationships ( you can talk with your person or give specific time or make them busy too , my my objective is not relationship advice but to protect your brain spaces more and yes we are social being you should  hand out but under limit , priorities matters.
+4. revision revision , so what ever you learn just revise within 30-40 hours again then lite revision again after a week , this will create new nuro paths , later when you recall even if you forget if you get hint you recall all and then do practice to hard concepts , hope it helps and do have good sleep and while y learn avoid social media and extra stuff and stupid relationships ( you can talk with your person or give specific time or make them busy too , my my objective is not relationship advice but to protect your brain spaces more and yes we are social being you should  hand out but under limit , priorities matters.
 
 1) start as small as possible get just enough out the door to have it working and working well 
 2) first design on paper then design in figma other tool

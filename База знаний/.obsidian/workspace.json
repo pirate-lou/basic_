@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/flenov/dotnet.md",
+                "file": "Programming/Projects/Сайт резюме.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/flenov/dotnet.md",
+                "file": "Programming/Projects/Сайт резюме.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/flenov/dotnet.md",
+                "file": "Programming/Projects/Сайт резюме.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/flenov/dotnet.md"
+                "file": "Programming/Projects/Сайт резюме.md"
               }
             }
           },
@@ -160,44 +160,45 @@
   },
   "active": "62b27e914bc77db4",
   "lastOpenFiles": [
-    "Screenshot 2024-09-29 at 3.17.52 PM.png",
-    "Screenshot 2024-09-29 at 2.44.20 PM.png",
+    "Programming/Projects/Suggestion Site App.md",
+    "Programming/Projects/Сайт резюме.md",
+    "Programming/flenov/База.md",
     "Programming/flenov/SQL.md",
     "Programming/flenov/dotnet.md",
-    "Screenshot 2024-09-19 at 1.58.29 PM.png",
-    "other/Cache/Screenshot 2024-09-18 at 8.19.00 PM.png",
-    "Programming/flenov/База.md",
+    "other/reference/proga/Свойства.md",
+    "other/reference/proga/ошибки.md",
+    "Programming/basic/static class + Nested class + Extension.md",
+    "Programming/basic/abstract class.md",
+    "other/reference/proga/LINQ.md",
+    "собес.md",
+    "Untitled",
+    "Цели.md",
     "Programming/Основы программирования часть 2.md",
-    "Programming/Suggestion Site App.md",
+    "Programming/Projects",
+    "Брошюра.md",
+    "Education/Books.md",
+    "Education/youtube.md",
+    "other/Cache/Screenshot 2024-09-19 at 1.58.29 PM.png",
+    "other/Cache/Screenshot 2024-09-29 at 2.44.20 PM.png",
+    "other/Cache/Screenshot 2024-09-30 at 4.55.00 PM.png",
+    "other/Cache/Screenshot 2024-09-29 at 3.17.52 PM.png",
+    "other/Cache/Screenshot 2024-09-18 at 8.19.00 PM.png",
     "Programming/basic/UpCast + DownCast.md",
     "Programming/basic/example.md",
-    "Programming/basic/static class + Nested class + Extension.md",
     "Programming/basic/array + indexers + interface.md",
-    "Programming/basic/abstract class.md",
     "Programming/basic/Back.md",
     "basic/README.md",
     "other/reference/proga/basic.md",
-    "other/reference/proga/LINQ.md",
     "Excalidraw/aaa.md",
     "Excalidraw/Note-taking system.md",
     "Excalidraw/sharp.md",
     "Excalidraw/Рекурсия - наглядно.md",
-    "Excalidraw/quote.md",
-    "Education/youtube.md",
-    "Education/Books.md",
-    "c#/basic/lesson 7.md",
-    "Untitled",
     "basic",
-    "Education/Статьи/Knife.md",
-    "Education/Статьи/Журнал Код.md",
-    "other/reference/книги/Теоретический минимум по CS.md",
     "other/Cache/Screenshot 2024-09-16 at 6.47.59 PM.png",
     "other/Cache/Screenshot 2024-09-14 at 4.59.25 PM.png",
     "other/Cache/Screenshot 2024-09-14 at 4.30.40 PM.png",
     "other/Cache/Screenshot 2024-09-14 at 4.15.25 PM.png",
     "other/Cache/Screenshot 2024-09-14 at 4.10.49 PM.png",
-    "other/Cache/Screenshot 2024-09-12 at 2.48.32 PM.png",
-    "other/Cache/Screenshot 2024-09-12 at 2.42.43 PM.png",
     "Programming/c#",
     "Programming/flenov",
     "Programming/basic",
@@ -206,7 +207,6 @@
     "Untitled.canvas",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw",
     "Programming/2 часть/Листы и словари/Untitled.canvas"
   ]
 }
